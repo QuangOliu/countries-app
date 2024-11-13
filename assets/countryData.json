@@ -1,0 +1,5 @@
+[
+  {"name": "United States", "code": "US", "description": "A country in North America."},
+  {"name": "Canada", "code": "CA", "description": "A country in North America."},
+  {"name": "Germany", "code": "DE", "description": "A country in Europe."}
+]
